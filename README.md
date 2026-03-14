@@ -1,7 +1,3 @@
-Here's a GitHub description for the project:
-
----
-
 ## Transit Flow Animation — Astoria Wing Station
 
 A data visualization tool that generates an animated MP4 (or GIF fallback) illustrating the urban planning concept behind the proposed **Astoria Wing Station** — a new transit hub designed to decentralize NYC's Manhattan-centric rail network by enabling direct interborough connections.
@@ -38,5 +34,4 @@ python transit_animation.py
 ```
 
 ---
-*Created by Vasilij Pavlov, MArch 2025, Parsons School of Design.*# TransitFlowAnimationAstoriaWingStation
-A data visualization tool that generates an animated MP4 (or GIF fallback) illustrating the urban planning concept behind the proposed Astoria Wing Station — a new transit hub designed to decentralize NYC's Manhattan-centric rail network by enabling direct interborough connections.
+*Created by Vasilij Pavlov, MArch 2025, Parsons School of Design.*
